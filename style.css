@@ -134,7 +134,7 @@ main .main-buttons button{
     border: 0;
     font-size: 14px;
     color: #5f6368;
-    border-radius: 6p;
+    border-radius: 6px;
     padding: 0 15px;
     margin-right: 12px;
 }
@@ -176,4 +176,9 @@ footer .footer-right{
 footer ul li a{
     margin: 10px;
     color: #5f6358
+}
+header .nav-right-section .menu-icon:hover{
+    background-color: #d9d6df;
+    box-shadow: 1 1.5px 1px 3 #000001;
+    border-radius: 30px;   
 }
